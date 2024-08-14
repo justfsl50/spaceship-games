@@ -43,13 +43,13 @@
  }
  #score {
     position: absolute;
-    top: 10px; /* Position the score near the top of the game container */
-    right: 10px; /* Align it to the right side of the game container */
-    color: white; /* Make the score text white to stand out */
-    font-size: 20px; /* Set a readable font size */
-    font-family: Arial, sans-serif; /* Use a clean, readable font */
-    background-color: rgba(0, 0, 0, 0.7); /* Add a dark semi-transparent background */
-    padding: 5px 10px; /* Add some padding for better readability */
-    border-radius: 5px; /* Slightly round the corners of the background */
-    z-index: 1000; /* Ensure the score is displayed above other elements */
+    top: 10px; 
+    right: 10px;
+    color: white; 
+    font-size: 20px; 
+    font-family: Arial, sans-serif; 
+    background-color: rgba(0, 0, 0, 0.7); 
+    padding: 5px 10px;
+    border-radius: 5px; 
+    z-index: 1000; 
 }
